@@ -14,7 +14,9 @@ The FaceNet model can be found out here:
 The complete path of train and the test folder must be give as required mention in the readme file. the faces are extracted ffrom the images and are stored in as arrays avery cropped images is having the corresponding labels in the Y_arrays.Both os the ararays are the gien to the facenet to find the embeddings.
 
 Data set must be in this order.
+
 main folder
+
 train
 ```
 image_class1
@@ -44,5 +46,6 @@ Face Identification: A one-to-many mapping for a given face against a database o
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Code Developed by-**
+
 SHUBHAM KUMAR
 Currently persuing M.tech (IIT Kanpur)
