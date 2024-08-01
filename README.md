@@ -42,10 +42,3 @@ The complete path of train and the test folder must be give as required mention 
 Face Verification: A one-to-one mapping of a given face against a known identity (e.g. is this the person?).
 
 Face Identification: A one-to-many mapping for a given face against a database of Face recognition is the general task of identifying and verifying people from their photographs.
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**Code Developed by-**
-
-SHUBHAM KUMAR
-Currently persuing M.tech (IIT Kanpur)
